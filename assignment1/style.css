@@ -1,0 +1,45 @@
+*{
+				 font-family: "ss-light";
+			 }
+			 .image0, .image2, .image4, .image6
+			 {
+			 	width:40%;
+			 	float:left;
+			 	height :430px;
+			 	width :430px;
+			 	padding:20px 80px 80px 80px;
+			 }
+			 .content0, .content2, .content4, .content6
+			 {
+			 	width:48%;
+			 	float: right;
+			 	margin-right:100px;
+			 	padding-top: 20px;
+			 }
+			 .image1, .image3, .image5
+			 {
+			 	float: right;
+			 	margin-top: 120px;
+			 	margin-right: 280px;
+			 }
+			 .content1, .content3, .content5
+			 {
+			 	width:43%;
+			 	margin-left: 40px;
+			 	margin-left: 80px;
+			 }
+			 h2
+			 {
+			 	color: orange;
+			 }
+			 p
+			 {
+			 	color: gray;
+			 	font-size: 20px;
+			 }
+			 ul
+			 {
+			 	color: gray;
+			 	padding-left: 50px;
+			 	font-size: 20px;
+			 }
